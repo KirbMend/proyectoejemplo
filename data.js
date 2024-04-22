@@ -1,0 +1,1 @@
+const nombres = ["Diego", "Alejandro", "Pepe"];
