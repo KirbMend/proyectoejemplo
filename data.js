@@ -4,5 +4,9 @@ let arreglo = [
     {
         id:1,
         name: "Diego"
+    },
+    {
+        id:2,
+        name:"Pepe"
     }
 ]
